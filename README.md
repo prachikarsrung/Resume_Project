@@ -8,6 +8,7 @@ Built to inform decision-makers, regulators, and marketers, this case study expl
 1. Economic Contributions View=
 2. Health & Social Risks View=
 3. Revenue & Partners Overview=
+4. Recommandation=
 
 ### 🎯 Objectives
 Quantify revenue distribution across brands, sectors, and income groups
