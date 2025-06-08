@@ -7,7 +7,7 @@ Built to inform decision-makers, regulators, and marketers, this case study expl
 
 1. Economic Contributions View=[https://github.com/prachikarsrung/Resume_project/blob/main/Economic%20contribution.png]
 2. Health & Social Risks View=[]
-3. Revenue & Partners Overview=[]
+3. Revenue & Partners Overview=[https://github.com/prachikarsrung/Resume_project/blob/main/Revenue%20and%20partner.png]
 4. Recommandation=[https://github.com/prachikarsrung/Resume_project/blob/main/Recomandation.png]
 
 ### 🎯 Objectives
