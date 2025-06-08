@@ -6,7 +6,7 @@ This Power BI project offers a 360° analysis of the economic, social, and brand
 Built to inform decision-makers, regulators, and marketers, this case study explores how IPL monetization intersects with user behavior, income demographics, and social risks.
 
 1. Economic Contributions View=[https://github.com/prachikarsrung/Resume_project/blob/main/Economic%20contribution.png]
-2. Health & Social Risks View=[]
+2. Health & Social Risks View=[https://github.com/prachikarsrung/Resume_project/blob/main/social%20%26%20health%20analysis.png]
 3. Revenue & Partners Overview=[https://github.com/prachikarsrung/Resume_project/blob/main/Revenue%20and%20partner.png]
 4. Recommandation=[https://github.com/prachikarsrung/Resume_project/blob/main/Recomandation.png]
 
